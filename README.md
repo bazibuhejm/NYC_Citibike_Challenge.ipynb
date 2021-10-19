@@ -62,5 +62,4 @@ These are the most important lessons from the above results for establishing a s
 3. Provide incentives to encourage everyday use during typical commuting hours during the week.
 
 For a more in depth and interactive view of this analysis, checkout the Tableau link below
-
-my acc
+https://public.tableau.com/app/profile/jean.marie.bazibuhe/viz/NYCCitiBikeAnalysis_16346765402550/NYCCitiBikeAnalysis?publish=yes
